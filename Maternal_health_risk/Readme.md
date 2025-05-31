@@ -50,4 +50,4 @@
 
 _______________________________________
 
- В случае, если не рендерится ноутбук, ссылка на google colab с ноутбуком: https://colab.research.google.com/drive/1V36czcGNlxQjFwYbUeFFoQMoi2z8TXNf?usp=sharing
+ В случае, если не рендерится ноутбук, [ссылка на google colab с ноутбуком](https://colab.research.google.com/drive/1V36czcGNlxQjFwYbUeFFoQMoi2z8TXNf?usp=sharing)
