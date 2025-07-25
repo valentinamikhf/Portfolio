@@ -31,7 +31,8 @@ estimators = [
 final_estimator = make_pipeline(
     StandardScaler(),
     LogisticRegression(max_iter=1000, random_state=RANDOM_STATE)
-)```
+)
+```
 - Также была обучена нейросеть.
 
 Лучшей показала себя стекинг-модель (Precision (CV): 0.581 ± 0.030), однако ее метрики:
