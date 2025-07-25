@@ -39,7 +39,8 @@ estimators = [
 final_estimator = make_pipeline(
     StandardScaler(),
     LinearRegression()
-)```
+)
+```
 
 Кроме этого была обучена **нейросеть LSTM**.
 
